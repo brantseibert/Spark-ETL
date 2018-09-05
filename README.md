@@ -42,12 +42,14 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 
 ### Load
 
+* Raw
 * Parquet (columnar)
 * Databricks ETL Jobs
 
-### UDF - User Defined Function
+### Transform
 
-* Basic UDFs
+* User Defined Functions (UDF)
+* Simple UDFs
 * Multivariate UDFs
 
 ### Joins
