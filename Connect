@@ -1,5 +1,3 @@
-#include(stdio.)
-
 /**
  * Scala code connecting to a
  * PostGreSQL database instance
@@ -7,7 +5,6 @@
  *
  * See discussion below 
  */
-package com.ascentti.spark-ETL
 
 Class.forName("org.postgresql.Driver")
 
@@ -17,7 +14,6 @@ val jdbcDatabase = "database_name"
 
 val jdbcUrl = s"jdbc:postgresql://${jdbcHostname}:${jdbcPort}/${jdbcDatabase}"
 
-```
 
 /**
  * DISCUSSION
