@@ -26,8 +26,33 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 
 ### Connecting
 
-
+* JDBC
+* Cloud Blob Storage
 
 ### Schemas
 
+* Infering vs. Defining Schemas
+* Flat and Nested Schemas (e.g. JSON) 
+
 ### Corrupt Records
+
+- [ ] PERMISSIVE
+- [ ] DROPMALFORMED
+- [ ] FAILFAST
+
+### Load
+
+* Parquet (columnar)
+* Databricks ETL Jobs
+
+### UDF - User Defined Function
+
+* Basic UDFs
+* Multivariate UDFs
+
+### Joins
+
+* Predicate Pushdown
+* Tables and Partitions
+
+### Writing to a Database
