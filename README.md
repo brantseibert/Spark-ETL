@@ -1,2 +1,5 @@
 # Spark-ETL
-Tips for ETL with Spark.
+Pointers on using spark to Extract, Transform, and Load your data.
+
+TOPICS
+
