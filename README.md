@@ -24,12 +24,12 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 * Optimize data formats in memory and on disc; and
 * Orchestrate end-to-end analytic and data science pipelines.
 
-### Connecting
+### Connect
 
 * JDBC
 * Cloud Blob Storage
 
-### Schemas
+### Define Schema
 
 * Infering vs. Defining Schemas
 * Flat and Nested Schemas (e.g. JSON) 
@@ -53,7 +53,7 @@ Handling Corrupt Records
   - Simple UDFs
   - Multivariate UDFs
 
-### Joins
+### Join
 
 * Predicate Pushdown
 * Tables and Partitions
