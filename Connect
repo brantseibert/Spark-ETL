@@ -1,4 +1,4 @@
-```scala
+#include(stdio.h)
 
 /**
  * Scala code connecting to a
