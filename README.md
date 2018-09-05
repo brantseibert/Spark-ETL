@@ -57,5 +57,7 @@ Handling Corrupt Records
 
 * Predicate Pushdown
 * Tables and Partitions
+* Structured Streaming
+* Join Batch and Streaming Data
 
 ### Writing to a Database
