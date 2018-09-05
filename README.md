@@ -22,9 +22,11 @@ Spark shines as the data processing engine for advanced Machine Learning, on dat
 Reducing complexity is the key to empowering organizations with Artificial Intelligence.  Spark excels at reducing complexity by providing a single framework to:
 * Ingest batch and streaming data;
 * Optimize data formats in memory and on disc; and
-* Orchestrate end-to-end data science pipelines.
+* Orchestrate end-to-end analytic and data science pipelines.
 
 ### Connecting
+
+
 
 ### Schemas
 
