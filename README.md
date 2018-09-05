@@ -26,8 +26,8 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 
 ### Connecting
 
-- [ ] JDBC
-- [ ] Cloud Blob Storage
+* JDBC
+* Cloud Blob Storage
 
 ### Schemas
 
@@ -37,9 +37,9 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 ### Clean
 
 Handling Corrupt Records
-  * PERMISSIVE
-  * DROPMALFORMED
-  * FAILFAST
+- [ ] PERMISSIVE
+- [x] DROPMALFORMED
+- [ ] FAILFAST
 
 ### Load
 
