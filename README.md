@@ -49,8 +49,8 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 ### Transform
 
 * User Defined Functions (UDF)
-* Simple UDFs
-* Multivariate UDFs
+  - Simple UDFs
+  - Multivariate UDFs
 
 ### Joins
 
