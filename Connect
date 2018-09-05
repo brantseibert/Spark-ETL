@@ -1,0 +1,25 @@
+```scala
+
+/**
+ * Scala code connecting to a
+ * PostGreSQL database instance
+ * from a Databricks Notebook
+ *
+ * See discussion below 
+ */
+package com.ascentti.spark-ETL
+
+Class.forName("org.postgresql.Driver")
+
+val jdbcHostname = "server..."
+val jdbcPort = ____
+val jdbcDatabase = "database_name"
+
+val jdbcUrl = s"jdbc:postgresql://${jdbcHostname}:${jdbcPort}/${jdbcDatabase}"
+
+```
+
+/**
+ * DISCUSSION
+ * 
+ */
