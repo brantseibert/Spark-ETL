@@ -55,7 +55,6 @@ Handling Corrupt Records
 
 ### Join
 
-* Predicate Pushdown
 * Tables and Partitions
 * Structured Streaming
 * Join Batch and Streaming Data
