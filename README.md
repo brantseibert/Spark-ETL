@@ -26,24 +26,25 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 
 ### Connecting
 
-* JDBC
-* Cloud Blob Storage
+- [ ] JDBC
+- [ ] Cloud Blob Storage
 
 ### Schemas
 
 * Infering vs. Defining Schemas
 * Flat and Nested Schemas (e.g. JSON) 
 
-### Corrupt Records
+### Clean
 
-- [ ] PERMISSIVE
-- [ ] DROPMALFORMED
-- [ ] FAILFAST
+Handling Corrupt Records
+  * PERMISSIVE
+  * DROPMALFORMED
+  * FAILFAST
 
 ### Load
 
 * Raw
-* Parquet (columnar)
+* Parquet
 * Databricks ETL Jobs
 
 ### Transform
