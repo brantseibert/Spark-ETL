@@ -76,3 +76,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * Join Batch and Streaming Data
 
 ### Writing to a Database
+
+Spark writes to a database in the same manner as a read: using an INSERT statement and JDBC.  The efficiency of a write operation in spark is determined by the number of partitions, since Spark can open individual JDBC connections and write in parallel.  To determine the optimum write capability, we can use coalesce() to decrease the number of partitions, or repartition() to increase the number of partitions.  Coalesce uses less data shuffling and is best for decreasing partitions.
