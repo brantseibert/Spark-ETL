@@ -67,7 +67,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
   - Simple UDFs
   - Multivariate UDFs
   
-  https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3937215438089361/171177414530628/4692050933620676/latest.html
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3937215438089361/171177414530628/4692050933620676/latest.html
 
 ### Join
 
