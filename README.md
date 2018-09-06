@@ -75,4 +75,6 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * Structured Streaming
 * Join Batch and Streaming Data
 
+
+
 ### Writing to a Database
