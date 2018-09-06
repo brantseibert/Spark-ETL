@@ -28,6 +28,8 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 * Optimize data formats in memory and on disc; and
 * Orchestrate end-to-end analytic and data science pipelines.
 
+https://databricks.com/blog/2018/08/09/building-a-real-time-attribution-pipeline-with-databricks-delta.html
+
 ### Connect
 
 * JDBC
