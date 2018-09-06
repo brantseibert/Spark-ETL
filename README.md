@@ -29,6 +29,8 @@ Reducing complexity is the key to empowering organizations with Artificial Intel
 * JDBC
 * Cloud Blob Storage
 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3937215438089361/4051336435620913/4692050933620676/latest.html
+
 ### Define Schema
 
 * Infering vs. Defining Schemas
