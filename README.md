@@ -69,12 +69,12 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
   
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3937215438089361/171177414530628/4692050933620676/latest.html
 
-### Join
+### Join (UNDER CONSTRUCTION)
 
 * Tables and Partitions
 * Structured Streaming
 * Join Batch and Streaming Data
 
-
+https://github.com/brantseibert/diabetes/blob/master/dashboard
 
 ### Writing to a Database
