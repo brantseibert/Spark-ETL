@@ -72,9 +72,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 ### Join (UNDER CONSTRUCTION)
 
 * Tables and Partitions
-* Structured Streaming
+* Structured Streaming  https://github.com/brantseibert/diabetes/blob/master/dashboard
 * Join Batch and Streaming Data
-
-https://github.com/brantseibert/diabetes/blob/master/dashboard
 
 ### Writing to a Database
