@@ -19,6 +19,8 @@ We start by highlighting the similarities and differences between Spark and trad
 
 Spark shines as the data processing engine for advanced Machine Learning, on data that is both large (think Genomic) and immediate (think Streaming), because End-to-End Deep Learning with today's Neural Networks improves in accuracy as the size of data grows.
 
+https://databricks.com/blog/2018/06/05/introducing-mlflow-an-open-source-machine-learning-platform.html
+
 ### Combining ETL, Analytics, and ML
 
 Reducing complexity is the key to empowering organizations with Artificial Intelligence.  Spark excels at reducing complexity by providing a single framework to:
