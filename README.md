@@ -11,6 +11,8 @@ The foundation for data analytics is a four step process outlined by Richard Kim
 3. Identify the dimensions.
 4. Identify the facts. 
 
+https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/four-4-step-design-process/
+
 We start by highlighting the similarities and differences between Spark and traditional dimensional design.
 
 ### Machine Learning (ML)
@@ -44,6 +46,8 @@ Handling Corrupt Records
 - [ ] PERMISSIVE
 - [x] DROPMALFORMED
 - [ ] FAILFAST
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3937215438089361/4051336435620938/4692050933620676/latest.html
 
 ### Load
 
